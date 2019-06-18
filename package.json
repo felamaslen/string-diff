@@ -1,7 +1,7 @@
 {
   "name": "pretty-string-diff",
   "bin": {
-    "string-diff": "./cli.js"
+    "pretty-string-diff": "./cli.js"
   },
   "engines": {
     "node": ">=6"

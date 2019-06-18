@@ -5,19 +5,19 @@ Diffs two strings and prints a pretty output.
 ## CLI usage:
 
 ```bash
-npm install -g string-diff
+npm install -g pretty-string-diff
 
-string-diff foo1 foo2
+pretty-string-diff foo1 foo2
 
 # or, string-diff files
 
-string-diff --file file1 file2
+pretty-string-diff --file file1 file2
 ```
 
 ## Programmatic usage:
 
 ```js
-const stringDiff = require('string-diff');
+const stringDiff = require('pretty-string-diff');
 
 const diff = stringDiff('foo1', 'foo2');
 
