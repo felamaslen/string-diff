@@ -1,5 +1,5 @@
 {
-  "name": "string-diff",
+  "name": "pretty-string-diff",
   "bin": {
     "string-diff": "./cli.js"
   },
