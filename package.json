@@ -1,0 +1,32 @@
+{
+  "name": "string-diff",
+  "bin": {
+    "string-diff": "./cli.js"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "version": "1.0.0",
+  "description": "Diffs two strings and prints a pretty output.",
+  "main": "index.js",
+  "keywords": [
+    "diff",
+    "string"
+  ],
+  "author": "Fela Maslen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felamaslen/string-diff.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "dependencies": {
+    "colors": "^1.3.3",
+    "diff": "^4.0.1"
+  },
+  "devDependencies": {
+    "ava": "^2.1.0"
+  }
+}
