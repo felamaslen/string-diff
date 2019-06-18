@@ -6,7 +6,7 @@
   "engines": {
     "node": ">=6"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Diffs two strings and prints a pretty output.",
   "main": "index.js",
   "keywords": [
