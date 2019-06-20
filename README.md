@@ -1,4 +1,4 @@
-# string-diff
+# pretty-string-diff
 
 Diffs two strings and prints a pretty output.
 
